@@ -1,1 +1,21 @@
-# contracts
+# 7GODS: Prelude
+
+
+https://7gods.xyz/
+
+## Deployed Contracts / Hash
+
+### Avalanche C Chain
+
+
+- Arcana Governance Token - 0xf0B5DBB75Ea29b27995639cC810C26Eac92ccA7B
+- xArcana - 0xC73A6E85FbbF8aE5A53059a583A3c6Ee74848c24
+- ArcanaDistributor - 0x48f35237Ec3194Ea06E7462C2b4E1A5186317415
+- ArcanaVault  - 0xA7fD485c68a7A329F4621d859cE07ebCeB28f199
+- Multicall2 - 0x6d0D3c7bA4eEDF336Bd0DE76077dF8064C075Dd2
+- Timelock - 0x3a69f112100E8600c423ef596fa1b074C8fd2874
+- xArcana IFO -  0x1aA672dA115A103f03B1c9aa946054d4fb3F035a
+- ArcanaFactory - 0xD82a69ee98E760447aB54BfbFE2412D290531803
+- ArcanaRouter - 0xcf01A23f7e1b231cFE2d8C81dA9b9E47b95f4a79
+
+UniswapV2Pair init code hash - 0x2a58a743ed8f2f1dc6522c0fde463ee4c24849a579b925853c0afde05e54b954
