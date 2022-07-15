@@ -3,7 +3,7 @@
 
 https://7gods.xyz/
 
-## Deployed Contracts / Hash
+## Deployed Contracts
 
 ### Avalanche C Chain
 
